@@ -1,0 +1,2 @@
+- trovare uno use case
+- costruire il modello
